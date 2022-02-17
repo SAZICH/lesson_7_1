@@ -1,0 +1,123 @@
+@import "null.css";
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+h1 {
+    font-family: lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 130%;
+    text-align: left;
+    color: #1e212c;
+    width: 810px;
+    margin-left: 197px;
+    margin-bottom: 26px;
+}
+.comment {
+    display: inline-block;
+    font-family: lato;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #787a80;
+    line-height: 160%;
+    text-align: left;
+    margin-left: 193px;
+    margin-bottom: 35px;
+    padding-left: 23px;
+    background: url(../img/Vector.png) 4px 4px / auto no-repeat;
+}
+.comment_1 {
+    display: inline-block;
+    font-family: lato;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #787a80;
+    line-height: 160%;
+    text-align: left;
+    margin-left: 24px;
+    padding-left: 23px;
+    margin-bottom: 35px;
+    background: url(../img/Union.png) 4px 4px / auto no-repeat;
+}
+
+.image {
+    margin-left: 197px;
+    margin-bottom: 65px;
+}
+.text {
+    font-family: lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1e212c;
+    text-align: left;
+    width: 810px;
+    margin-left: 197px;
+    margin-bottom: 24px;
+}
+.block_text {
+    font-family: lato;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #424551;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    width: 810px;
+    margin-left: 197px;
+    margin-bottom: 48px;
+}
+.text-2 {
+    font-family: lato;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 150%;
+    color: #1e212c;
+    text-align: left;
+    width: 810px;
+    margin-left: 197px;
+    margin-bottom: 52px;
+    padding-left: 58px;
+    background: url(../img/braces.png) 4px 4px / auto no-repeat;
+}
+.title {
+    font-family: lato;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 160%;
+    color: #424551;
+    text-align: left;
+    width: 810px;
+    margin-left: 197px;
+    margin-bottom: 24px;
+}
+.list {
+    font-family: lato;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 160%;
+    color: #424551;
+    text-indent: 30px;
+    width: 810px;
+    margin-left: 197px;
+    margin-bottom: 24px;
+}
+li {
+    padding-left: 16px;
+    background: url(../img/Vector1.png) 4px 4px / auto no-repeat;
+}
+.text-3 {
+    font-family: lato;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #424551;
+    width: 810px;
+    margin-left: 197px;
+}
